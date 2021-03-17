@@ -1,0 +1,44 @@
+body{
+	font-family: sans-serif;
+	background: #03c2fc;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+label{
+	font-size: 12pt;
+}
+
+.desain-form {
+	width: 350px;
+	background: white;
+	/*buat form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+	border-radius: 10px;
+}
+
+.btn {
+	background: #037ffc;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+.input{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
