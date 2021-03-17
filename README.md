@@ -1,3 +1,2 @@
 # Kalkulator 
-<span class="badge badge-dark">PHP</span>
-<span class="badge badge-primary">css</span>
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
